@@ -23,7 +23,7 @@ public class DataMigrationDemo {
 
 			//No need to setAutoCommit false
 			//Only one query will execute at a time
-			//If that query will execute successfully or not
+			//and, either that query gets execute successfully or not
 			//con.setAutoCommit(false);
 
 			// Creating SQL query to insert records
