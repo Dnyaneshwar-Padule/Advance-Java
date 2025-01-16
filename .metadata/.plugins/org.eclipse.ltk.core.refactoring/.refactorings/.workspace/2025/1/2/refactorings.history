@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;03-ADD-n-RECORDS&apos; to &apos;03-ADD-SPECIFIC-RECORD&apos;&#x0D;&#x0A;- Original element: &apos;03-ADD-n-RECORDS&apos;&#x0D;&#x0A;- Renamed element: &apos;03-ADD-n-RECORDS&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;03-ADD-n-RECORDS&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=03-ADD-n-RECORDS" name="03-ADD-SPECIFIC-RECORD" references="true" stamp="1736178345743" version="1.0"/>
+</session>

@@ -1,0 +1,28 @@
+package com.tca;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class InsertNRecordsWithBatchUpdate {
+
+	public static void main(String[] args) {
+	
+		Connection con;
+		PreparedStatement ps = null;
+		
+		try {
+			
+		}catch(Exception e) {
+			System.out.println(e.getMessage());
+			System.out.println(e.getCause().getMessage());
+		}
+		finally {
+			try {
+				con.close();
+			}catch(Exception e) {
+				System.out.println(e.getMessage());
+				System.out.println(e.getCause().getMessage());
+			}
+		}
+	}
+}

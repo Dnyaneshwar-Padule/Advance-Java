@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.demo.AddNRecords&apos; to &apos;AddRecord&apos;&#x0D;&#x0A;- Original project: &apos;03-ADD-n-RECORDS&apos;&#x0D;&#x0A;- Original element: &apos;com.demo.AddNRecords&apos;&#x0D;&#x0A;- Renamed element: &apos;com.demo.AddRecord&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AddNRecords&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.demo{AddNRecords.java[AddNRecords" matchStrategy="1" name="AddRecord" qualified="false" references="true" similarDeclarations="false" stamp="1736178323850" textual="false" version="1.0"/>
+</session>

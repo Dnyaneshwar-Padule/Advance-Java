@@ -1,0 +1,33 @@
+package com.tca;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class UpdateStudentRecord {
+	
+
+	public static final String DB_URL = "jdbc:postgresql://localhost/mydb";
+	public static final String DB_USER = "dnyaneshwar";
+	public static final String DB_PASSWORD = "root@3121";
+	
+	public static void main(String[] args) {
+		
+		Connection con = null;
+		PreparedStatement ps = null;
+		
+		try {
+			
+		}catch(Exception e) {
+			System.out.println(e.getMessage());
+			System.out.println(e.getCause().getMessage());
+		}finally {
+			try {
+				con.close();
+			}catch(Exception e) {
+				System.out.println(e.getMessage());
+				System.out.println(e.getCause().getMessage());
+			}
+		}
+		
+	}
+}

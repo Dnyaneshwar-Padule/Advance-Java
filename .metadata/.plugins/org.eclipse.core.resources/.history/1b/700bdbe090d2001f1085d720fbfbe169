@@ -1,0 +1,7 @@
+package com.tca;
+
+public class DeleteStudentRecordDemo {
+	public static void main(String[] args) {
+		
+	}
+}
